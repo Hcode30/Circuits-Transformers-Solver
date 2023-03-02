@@ -1,5 +1,5 @@
 # Circuits-Transformers-Solver
-## This transformer solver helps you to easily and  quickly solve the primary and secondary full-load currents of the transformer.
+## This transformer solver helps you to easily and  quickly solve the primary, secondary and full-load transformers.
 ### It is written in python using flet module and some other math modules   
 
 # Features :
